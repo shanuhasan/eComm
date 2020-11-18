@@ -18,7 +18,7 @@
           <a class="nav-link" href="/">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Orders</a>
+          <a class="nav-link" href="/myorder">Orders</a>
         </li>        
       </ul>
       <form action="/search" class="form-inline my-2 my-lg-0">
@@ -38,6 +38,7 @@
         </li>
         @else
         <li><a href="/login">Login</a></li>
+        <li><a href="/register">Register</a></li>
         @endif
       </ul>
     </div>
