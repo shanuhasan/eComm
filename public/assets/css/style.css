@@ -1,0 +1,11 @@
+.nav-custom{
+    background-color: #fff0ba;
+}
+.nav-custom .nav-item{
+    color: black;
+    font-weight: bold;
+}
+.nav-search
+{
+    width: 30vw !important;
+}
